@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Fragements</string>
-    <string name="welcome_text"> Welcome to Student Repository! The app lists students and allows select one to display more details</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="visit_nus">Visit NUS</string>
+    <string name="locate_nus">Locate NUS</string>
+    <string name="call_nus">Call NUS</string>
+    <string name="email_nus">Email NUS</string>
+    <string name="subject">For Enquiry</string>
+    <string name="email_text">Please state your enquiry...</string>
+</resources>

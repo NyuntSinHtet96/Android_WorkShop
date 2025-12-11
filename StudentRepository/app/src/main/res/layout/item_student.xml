@@ -4,7 +4,9 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:padding="16dp"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:divider="#e5e5ff"
+    android:dividerHeight="1dp">
     <TextView
         android:id="@+id/matriculation_number_text_view"
         android:layout_width="match_parent"
